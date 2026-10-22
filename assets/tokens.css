@@ -1,0 +1,13 @@
+:root {
+  --kuiske-ink: #152f31;
+  --kuiske-night: #10191b;
+  --kuiske-birch: #f5f1e8;
+  --kuiske-teal: #78b5a8;
+  --kuiske-teal-deep: #38685e;
+  --kuiske-lichen: #d1dbbc;
+  --kuiske-muted: #596d68;
+  --kuiske-line: #d4d9cb;
+  --kuiske-sans: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --kuiske-serif: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
+  --kuiske-mono: ui-monospace, "Cascadia Code", "SF Mono", Menlo, Consolas, monospace;
+}

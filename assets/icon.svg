@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <title>Kuiske application icon</title>
+  <rect width="128" height="128" rx="28" fill="#152f31"/>
+  <g transform="translate(16 16)" stroke="#78b5a8" stroke-width="10" stroke-linecap="round">
+    <path d="M26 22C19 37 19 59 26 74"/>
+    <path d="M44 41C51 34 59 24 72 23"/>
+    <path d="M44 57C51 64 60 72 73 73"/>
+  </g>
+</svg>

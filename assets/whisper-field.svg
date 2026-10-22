@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" fill="none">
+  <title>Whisper field</title>
+  <desc>Three families of curved lines open gently around a quiet center, echoing the Kuiske mark.</desc>
+  <g stroke="#78b5a8" stroke-width="1.5">
+    <path d="M198 44C29 253 29 547 198 756" opacity=".15"/>
+    <path d="M213 75C66 267 66 533 213 725" opacity=".2"/>
+    <path d="M228 106C103 281 103 519 228 694" opacity=".25"/>
+    <path d="M243 137C140 295 140 505 243 663" opacity=".3"/>
+    <path d="M258 168C177 309 177 491 258 632" opacity=".4"/>
+    <path d="M273 199C214 323 214 477 273 601" opacity=".6"/>
+    <path d="M386 333C443 167 598 58 779 61" opacity=".15"/>
+    <path d="M402 348C461 197 603 99 768 102" opacity=".2"/>
+    <path d="M418 363C479 227 608 140 757 143" opacity=".25"/>
+    <path d="M434 378C497 257 613 181 746 184" opacity=".3"/>
+    <path d="M450 393C515 287 618 222 735 225" opacity=".4"/>
+    <path d="M466 408C533 317 623 263 724 266" opacity=".6"/>
+    <path d="M386 467C443 633 598 742 779 739" opacity=".15"/>
+    <path d="M402 452C461 603 603 701 768 698" opacity=".2"/>
+    <path d="M418 437C479 573 608 660 757 657" opacity=".25"/>
+    <path d="M434 422C497 543 613 619 746 616" opacity=".3"/>
+    <path d="M450 407C515 513 618 578 735 575" opacity=".4"/>
+    <path d="M466 392C533 483 623 537 724 534" opacity=".6"/>
+  </g>
+</svg>
